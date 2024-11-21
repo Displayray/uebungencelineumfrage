@@ -1,0 +1,14 @@
+C:\Users\fabia\RiderProjects\umfrageübungceline\bin\Debug\net9.0\umfrageübungceline.exe
+C:\Users\fabia\RiderProjects\umfrageübungceline\bin\Debug\net9.0\umfrageübungceline.deps.json
+C:\Users\fabia\RiderProjects\umfrageübungceline\bin\Debug\net9.0\umfrageübungceline.runtimeconfig.json
+C:\Users\fabia\RiderProjects\umfrageübungceline\bin\Debug\net9.0\umfrageübungceline.dll
+C:\Users\fabia\RiderProjects\umfrageübungceline\bin\Debug\net9.0\umfrageübungceline.pdb
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.AssemblyInfoInputs.cache
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.AssemblyInfo.cs
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.csproj.CoreCompileInputs.cache
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.dll
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\refint\umfrageübungceline.dll
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.pdb
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\umfrageübungceline.genruntimeconfig.cache
+C:\Users\fabia\RiderProjects\umfrageübungceline\obj\Debug\net9.0\ref\umfrageübungceline.dll

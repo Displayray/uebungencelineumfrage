@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umfrageübungceline", "umfrageübungceline.csproj", "{E2345CEA-90C9-43A3-A1E3-60180BEE57FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2345CEA-90C9-43A3-A1E3-60180BEE57FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2345CEA-90C9-43A3-A1E3-60180BEE57FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2345CEA-90C9-43A3-A1E3-60180BEE57FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2345CEA-90C9-43A3-A1E3-60180BEE57FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
